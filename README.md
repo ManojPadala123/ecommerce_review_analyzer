@@ -1,4 +1,4 @@
-# 💬 Product Review & PDF Chatbot with RAG and Streamlit
+# 💬 Product QA and Review Chatbot
 
 This project implements an interactive chatbot that provides answers based on customer product reviews and uploaded PDF documentation. It leverages advanced AI techniques, including **Retrieval-Augmented Generation (RAG)** using **Mistral-7B-Instruct-v0.3**, embeddings with **SentenceTransformers**, and document storage with **ChromaDB**.
 
